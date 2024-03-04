@@ -1,0 +1,5 @@
+<?php
+
+$name= "php programm";
+
+?>
