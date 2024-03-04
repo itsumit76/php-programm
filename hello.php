@@ -1,0 +1,5 @@
+<?php
+
+$greet = "Hello php";
+
+?>
